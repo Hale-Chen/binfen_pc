@@ -1,0 +1,156 @@
+.banner img{
+	width: 100%;
+}
+.pro{
+	height: 406px;
+	background: url('../img/probg.png') no-repeat center center;
+	background-size: 100%;
+	padding-left: 20%;
+	padding-top: 109px;
+}
+.pro .border {
+	display: inline-block;
+	height: 28px;
+	width: 7px;
+	background: #660033;
+}
+.pro .name{
+	width:220px;
+	height:24px;
+	font-size:22px;
+	font-weight:bold;
+	color:rgba(0,0,0,1);
+	line-height:18px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 4px;
+	margin-left: 6px;
+}
+.pro .eng{
+	margin-left: 13px;
+	height:14px;
+	font-size:12px;
+	font-family:MicrosoftYaHei;
+	font-weight:400;
+	color:rgba(51,51,51,1);
+	line-height:18px;
+}
+.produce {
+	margin-top: 17px;
+	height:23px;
+	font-size:29px;
+	font-family:MicrosoftYaHei;
+	font-weight:400;
+	color:rgba(102,0,51,1);
+	line-height:18px;
+}
+
+.introduce{
+	margin-top: 62px;
+}
+.introduce .label{
+	line-height: 26px;
+	color: #333;
+}
+.label span{
+	position: relative;
+}
+.label span:after{
+	content: '';
+	height: 7px;
+	width: 60px;
+	background:rgba(102,0,51,1);
+	position: absolute;
+	left: 0;
+	top: 10px;
+	opacity:0.3;
+}
+.pro .btn{
+	margin-top: 44px;
+}
+.pro .btn img{
+	width: 130px;
+	height: 36px;
+}
+.sub{
+	text-align: center;
+	padding: 29px 0 24px;
+	color: #5D0F29;
+}
+.sub1{
+	text-align: center;
+	/* padding: 29px 0 24px; */
+	color: #5D0F29;
+}
+.try{
+	height: 510px;
+	background: url('../img/trybg.png') no-repeat center center;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+}
+.com{
+	padding-top: 29px;
+	width: 722px;
+	margin: 0 auto 94px;
+}
+.com .item{
+	width: 110px;
+	text-align: center;
+	/* margin-right: 196px; */
+}
+.com .imgs img{
+	width: 100%;
+	height: 176px;
+	margin-bottom: 10px;
+}
+.baidu img{
+	width: 33px;
+	height: 35px;
+	margin-top: 10px;
+}
+.other{
+	padding-top: 45px;
+	text-align: center;
+}
+.other .name1{
+	margin-top: 20px;
+}
+.other .name1 .title{
+	color: #5D0F29;
+}
+.other .opt{
+	color: #000;
+}
+.buy-btn{
+	margin-top: 90px;
+}
+.buy-btn img{
+	width: 163px;
+	height: 42px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

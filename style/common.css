@@ -1,0 +1,48 @@
+.header{
+	width: 100%;
+}
+.logo{
+	padding-left: 10%;
+	line-height: 70px;
+	height: 70px;
+}
+.logo img{
+	height: 70px;
+	vertical-align: middle;
+}
+.nav{
+	height: 70px;
+	line-height:70px;
+	padding-right:10%;
+}
+.nav .item a{
+	width: 100px;
+	text-align: center;
+	display: inline-block;
+	color: #000;
+}
+.nav .item a:hover{
+	background:#FFC4C4;
+	color: #fff;
+}
+.nav .item .active{
+	background:#FFC4C4;
+	color: #fff;
+}
+.footer{
+	margin-top: 150px;
+	position: relative;
+	height: 53px;
+	background: #f0f0f0;
+	text-align: center;
+	color: #666;
+	padding-top: 25px;
+}
+.footer .wx{
+	width:28px;
+	height: 28px;
+	position: absolute;
+	left: 50%;
+	top: -14px;
+	margin-left: -14px;
+}
