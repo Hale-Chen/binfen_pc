@@ -13,7 +13,7 @@
 			<img src="../img/brand.png" alt="">
 		</div>
 		<ul class="nav fr">
-			<li class="item fl"><a href="./index.html">网站首页</a></li>
+			<li class="item fl"><a href="../index.html">网站首页</a></li>
 			<li class="item fl"><a href='./product.html'>产品介绍</a></li>
 			<li class="item fl"><a href="#" class="active">成分介绍</a></li>
 			<li class="item fl"><a href="./course.html">品牌历程</a></li>
@@ -89,9 +89,24 @@
 		</ul>
 	</div>
 	<div class="footer">
+		<div class="wx-detail">
+			<img src="../img/wxdetail.png">
+		</div>
 		<img src='../img/wx.png' class="wx" alt="">
 		<div class="tip">网站地图 | 联系我们 | 使用条款 | 隐私政策</div>
 		<div class="address">上海市</div>
 	</div>
 </body>
+<script src="../js/jquery-3.3.1.min.js"></script>
+<script>
+    $(".wx").on("click",function () {
+        var wx = $(".wx-detail");
+        var display =wx.css("display");
+        if(display == "none"){
+            wx.css("display","block");
+        }else{
+            wx.css("display","none");
+        }
+    });
+</script>
 </html>
