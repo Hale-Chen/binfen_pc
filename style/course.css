@@ -1,3 +1,7 @@
+html,body{
+	background: #FFDFDF;
+}
+
 .banner img{
 	width: 100%;
 	vertical-align: middle;
@@ -6,22 +10,23 @@
 	background: url(../img/subbanner.png) no-repeat center center;
 	-webkit-background-size: 100%;
 	background-size: 100%;
-	height: 190px;
+	height: 304px;
 	overflow: hidden;
 	margin-top: 97px;
 }
 .subbanner .usa{
-	width: 400px;
-	height: 75px;
+	width: 700px;
+	height: 150px;
 	margin: 0 auto 0;
 	background: rgba(255, 255, 255, 0.5);
-	margin-top: 50px;
+	margin-top: 75px;
 	text-align: center;
 	font-weight: bold;
 	padding-top: 15px;
 }
 .subbanner .usa div{
-	font-size: 24px;
+	font-size: 44px;
+	font-weight: bold;
 }
 .main{
 	padding-top: 135px;
@@ -97,35 +102,45 @@
 	width: 362px;
 	padding-left: 53px;
 	margin-top: 25px;
-	font-size: 16px;
+	font-size: 20px;
 }
+
+.one .word div{
+	font-size: 20px;
+}
+
 .two .word{
 	line-height: 23px;
 	width: 362px;
 	padding-right: 53px;
 	margin-top: 25px;
-	font-size: 16px;
+	font-size: 20px;
 }
+
+.two .word div{
+	font-size: 20px;
+}
+
 .main .word span{
 	color: #5D0F29;
 }
 .inchina{
-	height: 155px;
+	height: 190px;
 	background: url(../img/inchina.png) no-repeat center center;
 	background-size: 100%;
 	text-align: center;
 	padding-top: 35px;
 }
 .inchina img{
-	height: 120px;
-	width: 90px;
+	height: 150px;
+	width: 120px;
 	vertical-align: middle;
 }
 .inchina span{
 	display: inline-block;
 	vertical-align: middle;
-	width: 166px;
-	font-size: 28px;
+	width: 230px;
+	font-size: 40px;
 	font-weight: bold;
 	color: #000;
 	text-align: left;
@@ -160,9 +175,9 @@
 }
 .right .border .year{
 	margin-left: 37px;
-	font-size: 24px;
+	font-size: 44px;
 	line-height: 24px;
-	width: 110px;
+	width: 200px;
 	font-weight: bold;
 }
 .right .border .ponit{
@@ -188,11 +203,12 @@
 }
 .right .words{
 	position: absolute;
-	bottom: -64px;
-	line-height: 22px;
-	font-size: 16px;
+	/* bottom: -99px; */
+	line-height: 30px;
+	font-size: 22px;
 	width: 420px;
 	left: 37px;
+	margin-top: 20px;
 }
 .left .border{
 	position: absolute;
@@ -207,7 +223,7 @@
 }
 .left .border .year{
 	margin-right: 37px;
-	font-size: 24px;
+	font-size: 44px;
 	line-height: 24px;
 	font-weight: bold;
 	text-align: right;
@@ -235,11 +251,12 @@
 }
 .left .words{
 	position: absolute;
-	bottom: -64px;
-	line-height: 22px;
-	font-size: 16px;
+	/* bottom: -64px; */
+	line-height: 30px;
+	font-size: 22px;
 	width: 420px;
 	right: 37px;
+	margin-top: 20px;
 }
 .over{
 	margin-top: 100px;
@@ -285,7 +302,8 @@
 
 }
 .overtime div{
-	font-size: 14px;
+	font-size: 22px;
+	line-height: 30px;
 	
 }
 .overtime span{
