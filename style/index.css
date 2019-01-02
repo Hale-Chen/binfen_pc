@@ -87,7 +87,6 @@ html,body{
 	overflow: hidden;
 	top: 148px;
 	position: relative;
-	background: #FFDFDF;
 }
 .block{
 }
@@ -132,7 +131,6 @@ html,body{
 	padding-bottom: 120px;
 	position: relative;
 	top: 148px;
-	background: #FFDFDF;
 }
 .post .word{
 	padding: 40px 0;
