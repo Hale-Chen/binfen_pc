@@ -25,7 +25,6 @@ html,body{
 	background: #660033;
 }
 .pro .name{
-	width:300px;
 	height:24px;
 	font-size:30px;
 	font-weight:bold;
@@ -165,6 +164,10 @@ html,body{
 .try1-text{
 	font-size: 18px;
 	margin-bottom: 25px;
+}
+
+.try1-text span{
+	text-align: left;
 }
 
 .try2{
