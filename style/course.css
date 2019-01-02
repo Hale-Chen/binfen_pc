@@ -1,5 +1,5 @@
 html,body{
-	background: #FFDFDF;
+	background: #fdf5f4;
 }
 
 .banner img{
@@ -38,6 +38,7 @@ html,body{
 	margin: 0 auto;
 	position: relative;
 	margin-bottom: 70px;
+	background-color: white;
 }
 .main .item div{
 	color: #000;
