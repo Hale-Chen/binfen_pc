@@ -152,13 +152,12 @@ html,body{
 	margin: 0 15px;
 }
 .aboutus{
-	width: 70%;
+	width: 80%;
 	margin: 74px auto;
 	position: relative;
 	top: 148px;
 }
 .about .word{
-	width: 200px;
 	writing-mode: vertical-lr;
 	writing-mode: tb-rl;
 	word-wrap: break-word;
@@ -170,7 +169,7 @@ html,body{
 .sublogo{
 	width: 200px;
 	height: 100px;
-	margin-left: 130px;
+	margin-left: 13%;
 }
 .sublogo img{
 	width: 100%;
