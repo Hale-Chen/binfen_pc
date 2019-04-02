@@ -10,23 +10,24 @@ html,body{
 	background: url(../img/subbanner.png) no-repeat center center;
 	-webkit-background-size: 100%;
 	background-size: 100%;
-	height: 304px;
+	height: 241px;
 	overflow: hidden;
 	margin-top: 97px;
 }
 .subbanner .usa{
-	width: 700px;
-	height: 150px;
-	margin: 0 auto 0;
-	background: rgba(255, 255, 255, 0.5);
-	margin-top: 75px;
+	width: 100%;
+	height: 175px;
+	/* margin: 0 auto 0; */
+	background: rgba(68, 33, 88, 0.78);
+
 	text-align: center;
 	font-weight: bold;
-	padding-top: 15px;
+	padding-top: 67px;
 }
 .subbanner .usa div{
 	font-size: 44px;
 	font-weight: bold;
+	color: #ffffff;
 }
 .main{
 	padding-top: 135px;
@@ -310,6 +311,13 @@ html,body{
 .overtime span{
 	color: #5D0F29;
 }
+
+/*.subbanner .bg-color{*/
+	/*background-color: #5d426b;*/
+	/*height: 200px;*/
+	/*width: 100%;*/
+	/*z-index: 999;*/
+/*}*/
 
 
 

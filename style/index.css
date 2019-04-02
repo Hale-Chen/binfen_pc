@@ -306,6 +306,39 @@ html,body{
 	height: 100%;
 }
 
+.fr-text{
+	font-size: 15px;
+	color: #5D0F29;
+	font-weight: bolder;
+	margin-top: 30px;
+}
+
+.fr-text1{
+	font-size: 13px;
+	margin-top: 10px;
+	font-weight: bolder;
+}
+
+.fr-div{
+	height: 3px;
+	background: #5D0F29;
+	margin-top: 20px !important;
+	width: 20px;
+}
+
+.imgs{
+	float: left;
+}
+
+.video-bg{
+	width: 80%;
+	height: 80%;
+	margin-left: 10%;
+	/* margin-top: 10%; */
+	position: absolute;
+	top: 10%;
+}
+
 
 
 

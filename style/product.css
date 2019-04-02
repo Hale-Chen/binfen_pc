@@ -281,6 +281,7 @@ html,body{
 	/* margin-right: 196px; */
 }
 .com .main-text{
+	margin-top: 20px;
 	font-size: 16px;
 }
 .com .imgs img{
@@ -320,6 +321,25 @@ html,body{
 	height: 42px;
 	margin-top: 112px;
 }
+
+.slogan{
+	margin-top: -50%;
+	z-index: 999;
+}
+
+.qcode{
+	width: 100px;
+	height: 100px;
+	margin-top: 24px;
+}
+
+.qcode img{
+	width: 100%;
+	height: 100%;
+}
+
+
+
 
 
 
